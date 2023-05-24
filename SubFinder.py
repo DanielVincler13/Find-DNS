@@ -1,4 +1,4 @@
-import requests
+import requests as req
 import colorama 
 from colorama import Fore, Back, Style 
 
