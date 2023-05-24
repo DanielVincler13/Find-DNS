@@ -20,7 +20,7 @@ print('''      _______. __    __  .______
 
 url = input("Coloque a URL ex(test.com): ")
 
-with open("Wordlist.txt", "r") as dir:
+with open("wordlist.txt", "r") as dir:
     find = dir.readlines()
 
     for word in find:
